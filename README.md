@@ -1,7 +1,7 @@
 # NETWORKWALKS CYBERSECURITY INTERNSHIP - WEEK 1
 
 ## Project Details
-* **Student Name:** [Albert Kenney Sackitey]
+* ** Name:** [Albert Kenney Sackitey]
 * **Batch:** B084
 * **Week:** Week 1 (Project Module 1)
 * **Project Title:** Lab Setup for Cybersecurity & Ethical Hacking Practice
